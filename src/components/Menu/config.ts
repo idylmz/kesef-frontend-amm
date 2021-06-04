@@ -29,7 +29,7 @@ const config: MenuEntry[] = [
   {
     label: 'Mining',
     icon: 'PoolIcon',
-    href: 'https://app.kesef.finance/nests'
+    href: 'https://app.kesef.finance/mining'
   },
  {
     label: 'Info',
